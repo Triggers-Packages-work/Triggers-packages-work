@@ -9,9 +9,9 @@ Question 1 and question 2
 
 ## 👨‍💻 Team Members
 - **Baziga Nkuranga caleb : 28845**  
-- **Arizewe jeniffer id**  
-- **Uwabera**  
-- **Gasana**  
+- **Arizewe sylvie jeniffer id:28798**  
+- **Uwabera giramata sheilla id: 28741**  
+- **Gasana gerardine id:28888**  
 - **Sabin Izere patience ID: 27816**  
 - **Muneza PRINCE ISHIMWE id: 27816**
 
