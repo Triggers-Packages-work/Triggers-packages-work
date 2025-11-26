@@ -42,7 +42,7 @@ Trigger checks the user’s failed attempts for the day.
 
 If failed attempts > 2 → system inserts a record into security_alerts.
 
-(Optional) A procedure sends out an alert email.
+ A procedure sends out an alert email.
 
 ✔ Expected Behavior
 
